@@ -1,1 +1,1 @@
-Finance App with ML
+Finance App
